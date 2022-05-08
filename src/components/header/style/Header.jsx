@@ -13,7 +13,6 @@ export const header = (props) => {
                         </a>
                     </div>
                     <div className="header-search-bar">
-                        
                         <input type="text" placeholder="  Search" >
                         </input>
                     </div>

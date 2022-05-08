@@ -1,0 +1,36 @@
+.status{
+    width: 100%;
+    max-width: 625px;
+}
+.in-box-status{
+    width: 100%;
+    background-color: white;
+    height: 120px;
+    border-radius: 2px;
+}
+.in-box-status ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+}
+.in-box-status ul li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 9%;
+    height: 100%;
+}
+.circle-box-status{
+    width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 1px solid black;
+    background: linear-gradient();
+}
+.circle-box-status img{
+    width: 100%;
+    height: 100%;
+}

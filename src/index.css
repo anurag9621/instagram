@@ -8,3 +8,15 @@
 a{
   color: black;
 }
+html{
+  background-color: rgb(249, 249, 249);
+}
+@media only screen and (max-width: 600px) {
+  .header-search-bar {
+    display: none;
+  }
+
+  .header-heading {
+    width: 200px;
+  }
+}
